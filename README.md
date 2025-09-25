@@ -11,7 +11,7 @@
 💻 E aí, galera! Como front-end, tô aqui pra fazer interfaces web que são não só bonitas, mas também funcionais. Transformo ideias em código e sempre busco deixar a experiência do usuário irada! Então, aproveitem meu perfil sem moderação! 🚀
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GuilhermeWandermurem07&show_icons=true&count_private=true&hide_border=true&title_color=FF00FF&icon_color=4B0082&text_color=c9d1d9&bg_color=FF00FF" alt="Guilherme Wandermurem github stats"/> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GuilhermeWandermurem07&show_icons=true&count_private=true&hide_border=true&title_color=FF00FF&icon_color=4B0082&text_color=c9d1d9&bg_color=0d1117" alt="Guilherme Wandermurem github stats"/> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeWandermurem07&layout=compact&hide_border=true&title_color=84b6f4&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
