@@ -37,7 +37,7 @@ Vamos trabalhar juntos em projetos incríveis! 👨‍💻
 <h1 align="center">Redes Sociais</h1>
 
 <a href="https://www.instagram.com/crf_guichapo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/ximenesjpdq/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/guilherme-corr%C3%AAa-b7714935b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 ### Contribuições no GitHub
 ![Animação](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
