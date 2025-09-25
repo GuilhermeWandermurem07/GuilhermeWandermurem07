@@ -10,18 +10,6 @@
 
 💻 E aí, galera! Como front-end, tô aqui pra fazer interfaces web que são não só bonitas, mas também funcionais. Transformo ideias em código e sempre busco deixar a experiência do usuário irada! Então, aproveitem meu perfil sem moderação! 🚀
 
-### Minha Filosofia
-Na era digital, cada linha de código é uma revolução e cada clique, um manifesto; quebremos as regras e criemos um novo mundo!
-
-<div align="center">
-  <a href="https://beacons.ai/aesir0101">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aesir0101&show_icons=true&theme=merko&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub">
-  </a>
-  <a href="https://beacons.ai/aesir0101">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aesir0101&layout=compact&langs_count=16&theme=merko" alt="Principais Linguagens">
-  </a>
-</div>
-
 ### Tecnologias que Estou Estudando:
 
 Vamos trabalhar juntos em projetos incríveis! 👨‍💻
