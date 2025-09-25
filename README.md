@@ -4,7 +4,7 @@
  ![1](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
  ## Sobre Mim
-#### 🧑‍💻 Sou estudante de Front-End no Vai na Web e estou sempre em busca de aprender mais sobre desenvolvimento web. Vem ver o que ando codando por aqui! 🚀
+#### 🧑‍💻 Sou formado em eletromecânica mas atualmente sou estudante de Front-End no Vai na Web e estou sempre em busca de aprender mais sobre desenvolvimento web. Assim que acabar o curso pretendo começar faculdade/curso de Análise e desenvolvimento de sistema. Vem ver o que ando codando por aqui! 🚀
 
 ### O Que Faço
 
