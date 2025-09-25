@@ -1,7 +1,7 @@
 # Olá, meu nome é Guilherme! 👋
 ## Desfrutem do meu perfil sem moderação! 😏
 
- ![1](https://github.com/user-attachments/assets/4200ec66-71ab-498e-a611-2338ca03de80)
+ ![1](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
  ## Sobre Mim
 #### 🧑‍💻 Sou estudante de Front-End no Vai na Web e estou sempre em busca de aprender mais sobre desenvolvimento web. Vem ver o que ando codando por aqui! 🚀
